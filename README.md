@@ -1,5 +1,5 @@
 # SlimeScript
-A small, simple coding language based on python
+A small, simple coding language based on python, it uses the .slime format
 
 ![Glitch_Slime_SP-1](https://github.com/user-attachments/assets/ba31ce1b-22e5-41af-a159-9f353c7310eb)
 
