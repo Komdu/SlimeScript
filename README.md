@@ -32,6 +32,6 @@ A small, simple coding language based on python, it uses the .slime format
 # ⬇️Download
 In releases theres a installer, SlimeInstaller.exe download it and start with admin rights.
 Installer downloads and installs correctly SlimeScript.
-Wait for more updates!
+Wait for more updates! (https://github.com/Komdu/SlimeScript/releases)
   
   
